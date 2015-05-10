@@ -1,0 +1,14 @@
+/* TEAM */
+  Chef: Filippo Vitale
+  Contact: before @gmail.com --> fvitale
+  Twitter: @filippovitale
+  Location: Sydney, Australia
+  From: Bologna, Italy
+
+/* THANKS */
+  background image: Vadim Kurland https://www.flickr.com/photos/vkurland/8484399320
+
+/* SITE */
+  Language: English
+  Doctype: HTML5
+  Technology colophon: HTML5, CSS3, Modernizr
