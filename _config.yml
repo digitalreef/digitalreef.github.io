@@ -1,1 +1,13 @@
 url: https://digitalreef.it
+
+permalink: /news/:title/
+
+collections:
+  portfolio:
+    output: true
+
+highlighter: pygments
+
+sass:
+  sass_dir: _sass
+  style: :compressed
